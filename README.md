@@ -79,7 +79,7 @@ java视频学习资源 (不断更新中)
 * [黑马ios](http://pan.baidu.com/s/1ntneBJr)   `密码: xb3f`
 * [phonegap HTML5开发视频](http://pan.baidu.com/s/1gdi7gSr)   `密码: thau`
 * [Zookeeper入门到精通](http://pan.baidu.com/s/1ntEOV4d)   `密码: gtj3`
-* [java入门](ttp://pan.baidu.com/s/1bn7bLWb)   `密码: r5kz`
+* [java入门](http://pan.baidu.com/s/1bn7bLWb)   `密码: r5kz`
 * [SSH2+activiti5OA管理系统案例视频](http://pan.baidu.com/s/1gdjnfdL)   `密码: a54r`
 * [word转换](http://pan.baidu.com/s/1pJ5r14R)   `密码: pbvv`
 * [桌面UI](http://pan.baidu.com/s/1sj470UL)   `密码: h32b`
