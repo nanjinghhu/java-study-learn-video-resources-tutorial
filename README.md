@@ -44,7 +44,7 @@ java视频学习资源 (不断更新中)
 * [php视频教程](http://pan.baidu.com/s/1r4M6q)   `密码: w4ak`
 * [linux视频教程-韩顺平](http://pan.baidu.com/s/1jGyac3W)   `密码: radh`
 * [spring-mvc视频教程](http://pan.baidu.com/s/1bnzAlMf)   `密码: rqpp`
-* [[吉林大学计算机操作系统视频教程](http://pan.baidu.com/s/13ad9k)   `密码: bux4`
+* [吉林大学计算机操作系统视频教程](http://pan.baidu.com/s/13ad9k)   `密码: bux4`
 * [mysql特级课视频教程](http://pan.baidu.com/s/1hqnoJK4)   `密码: wwwd`
 * [NoSQL视频教程](http://pan.baidu.com/s/1i3EXhB3)   `密码: d3ty`
 * [maven视频教程](http://pan.baidu.com/s/1dDg9ulb)   `密码: 1f5k`
@@ -58,7 +58,7 @@ java视频学习资源 (不断更新中)
 * [设计模式视频教程      ](http://pan.baidu.com/s/1kTjKUjX)   `密码: k7m8`
 * [jdbc视频教程](http://pan.baidu.com/s/1kTJCIYN)   `密码: hk8b`
 * [php从入门到精通](http://pan.baidu.com/s/1i3rq877)   `密码: c792`
-* [html+CSS教程[13个视频文件+1个rar文件-423M+资源大小]( http://pan.baidu.com/s/1c0pyNQC)   `密码: 4m77`
+* [html+CSS教程+13个视频文件+1个rar文件-423M+资源大小]( http://pan.baidu.com/s/1c0pyNQC)   `密码: 4m77`
 * [JAVA编程高级知识](http://pan.baidu.com/s/1hqEtm5I)   `密码: yr3x`
 * [OA+工作流视频教程](http://pan.baidu.com/s/1mgLC9Jy)   `密码: 7em9`
 * [webservice视频教程](http://pan.baidu.com/s/1sjIe7Wp)   `密码: eka8`
@@ -90,8 +90,8 @@ java视频学习资源 (不断更新中)
 * [JS视频教程 共150集](http://pan.baidu.com/s/1o6pe3t4)   `密码: 3cwz`
 * [activiti 工作流学习专题](http://pan.baidu.com/s/1o6OWoQI)   `密码: 7f96`
 * [oa      ](http://pan.baidu.com/s/1o6laJEE)   `密码: 5scp`
-* [前段资料](http://pan.baidu.com/s/1kTpQ5fh)   `密码: x2qd`
-* [简单微信[小项目]](http://pan.baidu.com/s/1bnqgNSj)   `密码: qu4j`
+* [前端资料](http://pan.baidu.com/s/1kTpQ5fh)   `密码: x2qd`
+* [简单微信(小项目)](http://pan.baidu.com/s/1bnqgNSj)   `密码: qu4j`
 * [学习环境](http://pan.baidu.com/s/1hq77AvE)   `密码: tbzc`
 * [nutch](http://pan.baidu.com/s/1jGsAxE2)   `密码: ckjq`
 * [anocation](http://pan.baidu.com/s/1i3HES0d)   `密码: cpym`
